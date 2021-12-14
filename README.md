@@ -30,3 +30,21 @@ The data we are using is the following one:
 - A dataset with 3000 rows and 22 weather features in Rome, from 2010 to 2017.
 - A dataset with 3000 rows and 22 weather features in Vienna, from 2010 to 2017.
 - A dataset with 3000 rows and 22 weather features in Budapest, from 2010 to 2017.
+
+<h2 align="center"> ## Process & tools </h2> 
+We use the following tools to achieve the objective.
+- Outline project and define goals
+- Research data sources
+- Set up project environment (GitHub repository, Trello Kanban board)
+- Gather data via web scraping and APIs
+- EDA, clean and wrangle data using Python and Pandas
+- Analysis and visualization in Tableau
+- Create interactive dashboard in Tableau
+- Presentation with Google Slides
+
+## Visualization
+
+## Results
+
+
+
