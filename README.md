@@ -4,7 +4,7 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 ![](images/air_pollution.jpg)
 
 ## Table of content
-- [Project]
+- [Project](https://github.com/vonate5/final_project/blob/main/README.md#project)
 - [Data]
 - [Process & tools]
 - [Visualization]
