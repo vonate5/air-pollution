@@ -53,7 +53,12 @@ We use the following tools to achieve the objective.
 
 ## Visualization
 
-## Results
+<h2 align="center"> Results </h2> 
+After sorting, cleaning and filtering the data we need it, we manage to obtain the next results:
+- Germany (1º) and Italy (2º) are the countries that worst air pollution have in Europe. On the other hand, the best are Iceland, Hungary and Austria.
+- Factors why that affect the countries positions:
+      - slkvdmcscd
+
 
 
 
