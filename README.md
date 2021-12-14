@@ -1,7 +1,7 @@
 # Air Pollution 🌬
 by [Virgilio Oñate](https://github.com/vonate5), December 2021
 ## Is it air pollution the main problem in cities today?
-![](images/air_pollution2.jpg)
+![](images/air_pollution.jpg)
 
 ## Table of content
 - [Project](https://github.com/vonate5/final_project/blob/main/README.md#project)
@@ -20,3 +20,13 @@ Starting with all the european countries, we will analyze different datasets to 
 
 **Problem:**
 
+## Data
+The data we are using is the following one:
+- A dataset with 6.500 rows that describe the factor deaths in the world since 1990.
+- A dataset that gives us the amount of private cars (per thousand units) that every country has in their public register.
+- One dataset with the population per country and city.
+- Web scrape to get the modal split in the cities we want to analyze.
+- A dataset with 3000 rows and 22 weather features in Berlin, from 2010 to 2017.
+- A dataset with 3000 rows and 22 weather features in Rome, from 2010 to 2017.
+- A dataset with 3000 rows and 22 weather features in Vienna, from 2010 to 2017.
+- A dataset with 3000 rows and 22 weather features in Budapest, from 2010 to 2017.
