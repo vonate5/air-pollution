@@ -5,7 +5,7 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 
 ## Table of content
 - [Project](https://github.com/vonate5/final_project/blob/main/README.md#project)
-- [Data]
+- [Data](https://github.com/vonate5/final_project/blob/main/README.md#data)
 - [Process & tools]
 - [Visualization]
 - [Results]
