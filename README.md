@@ -1,16 +1,21 @@
-# Air Pollution 🌬
+<h2 align="center"> Air Pollution 🌬 </h2>
+
 by [Virgilio Oñate](https://github.com/vonate5), December 2021
-## Is it air pollution the main problem in cities today?
+
+<h2 align="center"> Is it air pollution the main problem in cities today? </h2>
+
 ![](images/air_pollution.jpg)
 
-## Table of content
-- [Project](https://github.com/vonate5/final_project/blob/main/README.md#project)
-- [Data](https://github.com/vonate5/final_project/blob/main/README.md#data)
-- [Process & tools]
+<h2 align="center"> Table of content </h2> 
+
+- [Project](https://github.com/vonate5/final_project#-project-)
+- [Data](https://github.com/vonate5/final_project#-data-)
+- [Process & tools](https://github.com/vonate5/final_project#-data-)
 - [Visualization]
 - [Results]
 
-## Project
+<h2 align="center"> Project </h2> 
+
 **Scenario:**
 Since 1990 more than 130 million people has die from air pollution. In the last years, society has focus on trying to stop this problem.
 We will analyze the last two decades of the air pollution in Europe, comparing the results from different countries and trying to see the things they have in common  and those they don't.
@@ -20,8 +25,10 @@ Starting with all the european countries, we will analyze different datasets to 
 
 **Problem:**
 
-## Data
+<h2 align="center"> Data </h2> 
+
 The data we are using is the following one:
+
 - A dataset with 6.500 rows that describe the factor deaths in the world since 1990.
 - A dataset that gives us the amount of private cars (per thousand units) that every country has in their public register.
 - One dataset with the population per country and city.
@@ -30,3 +37,29 @@ The data we are using is the following one:
 - A dataset with 3000 rows and 22 weather features in Rome, from 2010 to 2017.
 - A dataset with 3000 rows and 22 weather features in Vienna, from 2010 to 2017.
 - A dataset with 3000 rows and 22 weather features in Budapest, from 2010 to 2017.
+
+<h2 align="center"> Process & tools </h2> 
+
+We use the following tools to achieve the objective.
+
+- Outline project and define goals
+- Research data sources
+- Set up project environment (GitHub repository, Trello Kanban board)
+- Gather data via web scraping and APIs
+- EDA, clean and wrangle data using Python and Pandas
+- Analysis and visualization in Tableau
+- Create interactive dashboard in Tableau
+- Presentation with Google Slides
+
+## Visualization
+
+<h2 align="center"> Results </h2> 
+
+After sorting, cleaning and filtering the data we need it, we manage to obtain the next results:
+- Germany (1º) and Italy (2º) are the countries that worst air pollution have in Europe. On the other hand, the best are Iceland, Hungary and Austria.
+- Factors why that affect the countries positions:
+
+
+
+
+
