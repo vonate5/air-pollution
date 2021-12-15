@@ -12,7 +12,7 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 - [Data](https://github.com/vonate5/final_project#-data-)
 - [Process & tools](https://github.com/vonate5/final_project#-data-)
 - [Visualization]
-- [Results]
+- [Conclussions]
 
 <h2 align="center"> Project </h2> 
 
@@ -53,11 +53,13 @@ We use the following tools to achieve the objective.
 
 ## Visualization
 
-<h2 align="center"> Results </h2> 
+<h2 align="center"> Conclussions </h2> 
 
 After sorting, cleaning and filtering the data we need it, we manage to obtain the next results:
+- Gdp and Co2 has a direct correlation. Since 2010, Germany is trying to reduce the amount of Co2 introducing new ways of energy consumption, introducing new renowables methods such as wind and hydro enrgy. 
 - Germany (1º) and Italy (2º) are the countries that worst air pollution have in Europe. On the other hand, the best are Iceland, Hungary and Austria.
-- Factors why that affect the countries positions:
+- Countries that have cities with +2.5 million people needs a good public transport system to reduce the amount of private cars and air pollution.
+- Countries with renowables energy has better air pollution and less deaths by year.
 
 
 
