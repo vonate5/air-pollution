@@ -1,8 +1,6 @@
 <h2 align="center"> Air Pollution 🌬 </h2>
-<h2 align="center"> Real problem? 🌬 </h2>
 
 by [Virgilio Oñate](https://github.com/vonate5), December 2021
-
 
 ![](images/air_pollution.jpg)
 
@@ -51,15 +49,15 @@ We use the following tools to achieve the objective.
 - Create interactive dashboard in Tableau
 - Presentation with Google Slides
 
-## Visualization
+<h2 align="center"> Visualization </h2> 
 
-<h2 align="center"> Conclussions </h2> 
+<h2 align="center"> Conclusions </h2> 
 
 After sorting, cleaning and filtering the data we need it, we manage to obtain the next results:
 - Gdp and Co2 has a direct correlation. Since 2010, Germany is trying to reduce the amount of Co2 introducing new ways of energy consumption, introducing new renowables methods such as wind and hydro enrgy. 
 - Germany (1º) and Italy (2º) are the countries that worst air pollution have in Europe. On the other hand, the best are Iceland, Hungary and Austria.
-- Countries that have cities with +2.5 million people needs a good public transport system to reduce the amount of private cars and air pollution.
-- Countries with renowables energy has better air pollution and less deaths by year.
+- Countries that have cities with +2.5 million people need a good public transport system to reduce the amount of private cars and air pollution.
+- There is a direct correlation between the public transport system and the air pollution in all the countries instead of Germany, that even though they move in a 30% by public transport, Co2 and air pollution has a high level, because +70% of the energy consumption is by fossil fuels.
 
 
 
