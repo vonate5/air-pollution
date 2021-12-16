@@ -56,8 +56,9 @@ We use the following method to achieve the objective.
 <h2 align="center"> Conclusions </h2> 
 
 After sorting, cleaning and filtering the data we need it, we manage to obtain the next results:
-- Gdp and Co2 has a direct correlation. Since 2010, Germany is trying to reduce the amount of Co2 introducing new ways of energy consumption, introducing new renowables methods such as wind and hydro enrgy. 
 - Germany (1º) and Italy (2º) are the countries that worst air pollution have in Europe. On the other hand, the best are Iceland, Hungary and Austria.
+- Gdp and Co2 emissions has a direct correlation. Since 2010, Germany is trying to reduce the amount of Co2 introducing new ways of energy consumption, introducing new renowables methods such as wind and hydro enrgy.
+- Analyzing the Co2 emissions, Germany and Italy are the 2 countries that have more emissions, as they are the two countries with more population, that's why is interesting to analyze the Co2 emissions per capita, where Austria is in second place, having more emissions than Italy. 
 - Countries that have cities with +2.5 million people need a good public transport system to reduce the amount of private cars and air pollution.
 - There is a direct correlation between the public transport system and the air pollution in all the countries instead of Germany, that even though they move in a 30% by public transport, Co2 and air pollution has a high level, because +70% of the energy consumption is by fossil fuels.
 
