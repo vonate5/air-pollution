@@ -31,10 +31,8 @@ The data we are using is the following one:
 - A dataset that gives us the amount of private cars (per thousand units) that every country has in their public register.
 - One dataset with the population per country and city.
 - Web scrape to get the modal split in the cities we want to analyze.
-- A dataset with 3000 rows and 22 weather features in Berlin, from 2010 to 2017.
-- A dataset with 3000 rows and 22 weather features in Rome, from 2010 to 2017.
-- A dataset with 3000 rows and 22 weather features in Vienna, from 2010 to 2017.
-- A dataset with 3000 rows and 22 weather features in Budapest, from 2010 to 2017.
+- A dataset with 12000 rows and 22 weather features in Berlin, Rome, Vienna and Budapest from 2010 to 2017.
+
 
 <h2 align="center"> Process & tools </h2> 
 
