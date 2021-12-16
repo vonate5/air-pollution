@@ -73,23 +73,21 @@ After sorting, cleaning and filtering the data we need it, we manage to obtain t
 
 <h2 align="center"> Source </h2> 
 
-https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+Ritchie, H., & Roser, M. (2021). CO₂ and Greenhouse Gas Emissions. Retrieved 14 December 2021, from https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
-https://ec.europa.eu/eurostat
+Home - Eurostat. (2021). Retrieved 15 December 2021, from https://ec.europa.eu/eurostat
 
-https://unfccc.int/es/process-and-meetings/the-paris-agreement/el-acuerdo-de-paris
+(2021). Retrieved 13 December 2021, from https://unfccc.int/es/process-and-meetings/the-paris-agreement/el-acuerdo-de-paris
 
-https://unfccc.int/es
+Ritchie, H., & Roser, M. (2021). Air Pollution. Retrieved 14 December 2021, from https://ourworldindata.org/air-pollution
 
-https://ourworldindata.org/air-pollution
+Total Market Car Sales by Country. (2021). Retrieved 14 December 2021, from https://carsalesbase.com/total-market-sales-country/europe-car-sales-data/
 
-https://carsalesbase.com/total-market-sales-country/europe-car-sales-data/
+Vehicle, M., & Vehicle, L. (2021). Top countries for Global Passenger Cars in Use. Retrieved 14 December 2021, from https://www.nationmaster.com/nmx/ranking/global-passenger-cars-in-use
 
-https://www.nationmaster.com/nmx/ranking/global-passenger-cars-in-use
 
 **Thanks for reading!**
 
 🌎🌍🌏
 
 
-Ritchie, H., & Roser, M. (2021). CO₂ and Greenhouse Gas Emissions. Retrieved 14 December 2021, from https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
