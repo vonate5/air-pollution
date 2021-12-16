@@ -57,7 +57,7 @@ You can find here the [code](https://github.com/vonate5/final_project/blob/main/
 
 The visualization for the project has been made in [Tableau](https://public.tableau.com/app/profile/virgilio.o.ate/viz/air_pollution_europe/Story1?publish=yes).
 
-In the following picture you can see four images resuming the analysis it has being made. You can see the amount of deaths from air pollution by country, the Co2 per capita, energy emissions from fossil fuels, nuclear and renewables, energy consumption before and after the Paris Agreement and popular facts about air pollution by country and city.
+In the following picture, you can see four images resuming the analysis it has been made. You can see the number of deaths from air pollution by country, the Co2 per capita, energy emissions from fossil fuels, nuclear and renewables, energy consumption before and after the Paris Agreement, and popular facts about air pollution by country and city.
 
 ![](images/tableau-read-me.png)
 
