@@ -55,7 +55,7 @@ You can find here the [code](https://github.com/vonate5/final_project/blob/main/
 
 You can find all the visualization in [Tableau]()
 
-![](
+![](images/tableau-read-me.png)
 
 <h2 align="center"> Conclusions </h2> 
 
