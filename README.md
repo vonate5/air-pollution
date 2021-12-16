@@ -2,7 +2,7 @@
 
 by [Virgilio Oñate](https://github.com/vonate5), December 2021
 
-![](images/air_pollution3.jpg)
+![](images/air_pollution2.jpg)
 
 <h2 align="center"> Table of content </h2> 
 
