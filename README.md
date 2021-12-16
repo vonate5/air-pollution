@@ -53,6 +53,10 @@ You can find here the [code](https://github.com/vonate5/final_project/blob/main/
 
 <h2 align="center"> Visualization </h2> 
 
+You can find all the visualization in [Tableau]()
+
+![](
+
 <h2 align="center"> Conclusions </h2> 
 
 After sorting, cleaning and filtering the data we need it, we manage to obtain the next results:
