@@ -16,12 +16,13 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 
 **Scenario:**
 Since 1990 more than 130 million people has die from air pollution. In the last years, society has focus on trying to stop this problem.
-We will analyze the last two decades of the air pollution in Europe, comparing the results from different countries and trying to see the things they have in common  and those they don't.
+We will analyze the last two decades of the air pollution in Europe, comparing the results from different countries based on different features.
 
 **Challenge:**
-Starting with all the european countries, we will analyze different datasets to get the best and worst air pollution countries rates (?¿?¿ cambiar)
+We will analyze and compare Germany, Italy, Hungary and Austria, their ways of fighting air pollution, the Co2 each country emits, how is their industrial energy and the future challenges that more that 200 nations has plan for the planet.
 
 **Problem:**
+The problem we face is to get a relation between all the data and find coherence in the results.
 
 <h2 align="center"> Data </h2> 
 
