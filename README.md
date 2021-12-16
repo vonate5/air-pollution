@@ -9,8 +9,8 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 - [Project](https://github.com/vonate5/final_project#-project-)
 - [Data](https://github.com/vonate5/final_project#-data-)
 - [Process & tools](https://github.com/vonate5/final_project#-data-)
-- [Visualization]
-- [Conclussions]
+- [Visualization](https://github.com/vonate5/final_project#-visualization-)
+- [Conclussions](https://github.com/vonate5/final_project#-conclusions-)
 
 <h2 align="center"> Project </h2> 
 
@@ -37,12 +37,14 @@ The data we are using is the following one:
 - A dataset with 3000 rows and 22 weather features in Budapest, from 2010 to 2017.
 
 <h2 align="center"> Process & tools </h2> 
-![](images/workflow.png)
+
+![](images/workflow.jpg)
+
 We use the following method to achieve the objective.
 
 - Outline project and define goals
 - Research data sources
-- Set up project environment (GitHub repository, Trello Kanban board)
+- Set up project environment (GitHub repository, 
 - Gather data via web scraping and APIs
 - EDA, clean and wrangle data using Python and Pandas
 - Analysis and visualization in Tableau
@@ -54,10 +56,12 @@ We use the following method to achieve the objective.
 <h2 align="center"> Conclusions </h2> 
 
 After sorting, cleaning and filtering the data we need it, we manage to obtain the next results:
-- Gdp and Co2 has a direct correlation. Since 2010, Germany is trying to reduce the amount of Co2 introducing new ways of energy consumption, introducing new renowables methods such as wind and hydro enrgy. 
 - Germany (1º) and Italy (2º) are the countries that worst air pollution have in Europe. On the other hand, the best are Iceland, Hungary and Austria.
+- Gdp and Co2 emissions has a direct correlation. Since 2010, Germany is trying to reduce the amount of Co2 introducing new ways of energy consumption, introducing new renowables methods such as wind and hydro enrgy.
+- Analyzing the Co2 emissions, Germany and Italy are the 2 countries that have more emissions, as they are the two countries with more population, that's why is interesting to analyze the Co2 emissions per capita, where Austria is in second place, having more emissions than Italy. 
 - Countries that have cities with +2.5 million people need a good public transport system to reduce the amount of private cars and air pollution.
 - There is a direct correlation between the public transport system and the air pollution in all the countries instead of Germany, that even though they move in a 30% by public transport, Co2 and air pollution has a high level, because +70% of the energy consumption is by fossil fuels.
+- 196 Countries participate in the Paris Agreement, which  goal is to limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels. To achieve this long-term temperature goal, countries aim to reach global peaking of greenhouse gas emissions as soon as possible to achieve a climate neutral world by mid-century.
 
 
 
