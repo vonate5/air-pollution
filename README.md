@@ -61,6 +61,7 @@ After sorting, cleaning and filtering the data we need it, we manage to obtain t
 - Analyzing the Co2 emissions, Germany and Italy are the 2 countries that have more emissions, as they are the two countries with more population, that's why is interesting to analyze the Co2 emissions per capita, where Austria is in second place, having more emissions than Italy. 
 - Countries that have cities with +2.5 million people need a good public transport system to reduce the amount of private cars and air pollution.
 - There is a direct correlation between the public transport system and the air pollution in all the countries instead of Germany, that even though they move in a 30% by public transport, Co2 and air pollution has a high level, because +70% of the energy consumption is by fossil fuels.
+- 196 Countries participate in the Paris Agreement, which  goal is to limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels. To achieve this long-term temperature goal, countries aim to reach global peaking of greenhouse gas emissions as soon as possible to achieve a climate neutral world by mid-century.
 
 
 
