@@ -4,7 +4,7 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 
 ![](images/air_pollution.jpg)
 
-<h2 align="center"> Table of content </h2> 
+<h2 align="center"> Agenda </h2> 
 
 - [Project](https://github.com/vonate5/final_project#-project-)
 - [Data](https://github.com/vonate5/final_project#-data-)
