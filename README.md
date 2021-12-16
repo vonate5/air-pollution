@@ -92,3 +92,4 @@ https://www.nationmaster.com/nmx/ranking/global-passenger-cars-in-use
 🌎🌍🌏
 
 
+Ritchie, H., & Roser, M. (2021). CO₂ and Greenhouse Gas Emissions. Retrieved 14 December 2021, from https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
