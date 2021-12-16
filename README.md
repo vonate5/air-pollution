@@ -53,11 +53,11 @@ You can find here the [code](https://github.com/vonate5/final_project/blob/main/
 
 <h2 align="center"> Visualization </h2> 
 
-You can find all the visualization in [Tableau](https://public.tableau.com/app/profile/virgilio.o.ate/viz/final_project_16393948109990/Story1?publish=yes)
+The visualization for the project has been made in [Tableau](https://public.tableau.com/app/profile/virgilio.o.ate/viz/final_project_16393948109990/Story1?publish=yes). In the following picture you can see four images resuming the analysis it has being made. You can see the amount of deaths from air pollution by country, the Co2 per capita, energy emissions from fossil fuels, nuclear and renewables, energy consumption before and after the Paris Agreement and popular facts about air pollution by country and city.
 
 ![](images/tableau-read-me.png)
 
-<h2 align="center"> **Conclusions** </h2> 
+<h2 align="center"> Conclusions </h2> 
 
 After sorting, cleaning and filtering the data we need it, we manage to obtain the next results:
 - Germany (1º) and Italy (2º) are the countries that worst air pollution have in Europe. On the other hand, the best are Iceland, Hungary and Austria.
