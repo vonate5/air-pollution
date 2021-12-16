@@ -15,7 +15,7 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 <h2 align="center"> Project </h2> 
 
 **Scenario:**
-Since 1990 more than 130 million people has die from air pollution. In the last years, society has focus on trying to stop this problem.
+Since 1990 more than 130 million people has die from air pollution. In the last years, society and governments has focus on trying to stop this problem.
 We will analyze the last two decades of the air pollution in Europe, comparing the results from different countries based on different features.
 
 **Challenge:**
