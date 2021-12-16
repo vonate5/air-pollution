@@ -38,16 +38,16 @@ The data we are using is the following one:
 
 ![](images/workflow.jpg)
 
-We use the following method to achieve the objective.
+You can find here the [code](https://github.com/vonate5/final_project/blob/main/code/final_project.ipynb). We use the following method to achieve the objective.
 
 - Outline project and define goals
 - Research data sources
-- Set up project environment (GitHub repository, 
+- Set up project environment
 - Gather data via web scraping and APIs
 - EDA, clean and wrangle data using Python and Pandas
 - Analysis and visualization in Tableau
 - Create interactive dashboard in Tableau
-- Presentation with Google Slides
+- Presentation with Tableau stories
 
 <h2 align="center"> Visualization </h2> 
 
