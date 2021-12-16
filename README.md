@@ -25,7 +25,7 @@ Starting with all the european countries, we will analyze different datasets to 
 
 <h2 align="center"> Data </h2> 
 
-The data we are using is the following one:
+The [data](https://github.com/vonate5/final_project/tree/main/data) we are using consists in:
 
 - A dataset with 6.500 rows that describe the factor deaths in the world since 1990.
 - A dataset that gives us the amount of private cars (per thousand units) that every country has in their public register.
