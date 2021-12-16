@@ -25,29 +25,31 @@ Starting with all the european countries, we will analyze different datasets to 
 
 <h2 align="center"> Data </h2> 
 
-The data we are using is the following one:
+The [data](https://github.com/vonate5/final_project/tree/main/data) we are using consists in:
 
-- A dataset with 6.500 rows that describe the factor deaths in the world since 1990.
-- A dataset that gives us the amount of private cars (per thousand units) that every country has in their public register.
-- One dataset with the population per country and city.
-- Web scrape to get the modal split in the cities we want to analyze.
-- A dataset with 12000 rows and 22 weather features in Berlin, Rome, Vienna and Budapest from 2010 to 2017.
+- Co2 dataset with 21.949 rows and 58 features
+- Energy consumption by country dataset with 6.561 rows and 12 features
+- A dataset with 6.500 rows that describe the factor deaths in the world since 1990
+- A dataset that gives us the amount of private cars (per thousand units) that every country has in their public register
+- One dataset with the population per country and city
+- Web scrape to get the modal split in the cities we want to analyze
+- A dataset with 12000 rows and 22 weather features in Berlin, Rome, Vienna and Budapest from 2010 to 2017
 
 
 <h2 align="center"> Process & tools </h2> 
 
 ![](images/workflow.jpg)
 
-We use the following method to achieve the objective.
+You can find here the [code](https://github.com/vonate5/final_project/blob/main/code/final_project.ipynb). We use the following method to achieve the objective.
 
 - Outline project and define goals
 - Research data sources
-- Set up project environment (GitHub repository, 
+- Set up project environment
 - Gather data via web scraping and APIs
 - EDA, clean and wrangle data using Python and Pandas
 - Analysis and visualization in Tableau
 - Create interactive dashboard in Tableau
-- Presentation with Google Slides
+- Presentation with Tableau stories
 
 <h2 align="center"> Visualization </h2> 
 
