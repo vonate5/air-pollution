@@ -53,7 +53,7 @@ You can find here the [code](https://github.com/vonate5/final_project/blob/main/
 
 <h2 align="center"> Visualization </h2> 
 
-You can find all the visualization in [Tableau]()
+You can find all the visualization in [Tableau](https://public.tableau.com/app/profile/virgilio.o.ate/viz/final_project_16393948109990/Story1?publish=yes)
 
 ![](images/tableau-read-me.png)
 
