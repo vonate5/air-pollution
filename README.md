@@ -57,7 +57,7 @@ You can find all the visualization in [Tableau](https://public.tableau.com/app/p
 
 ![](images/tableau-read-me.png)
 
-<h2 align="center"> Conclusions </h2> 
+<h2 align="center"> **Conclusions** </h2> 
 
 After sorting, cleaning and filtering the data we need it, we manage to obtain the next results:
 - Germany (1º) and Italy (2º) are the countries that worst air pollution have in Europe. On the other hand, the best are Iceland, Hungary and Austria.
@@ -67,7 +67,7 @@ After sorting, cleaning and filtering the data we need it, we manage to obtain t
 - There is a direct correlation between the public transport system and the air pollution in all the countries instead of Germany, that even though they move in a 30% by public transport, Co2 and air pollution has a high level, because +70% of the energy consumption is by fossil fuels.
 - 196 Countries participate in the Paris Agreement, which  goal is to limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels. To achieve this long-term temperature goal, countries aim to reach global peaking of greenhouse gas emissions as soon as possible to achieve a climate neutral world by mid-century.
 
-
+**Thanks for reading!**
 
 
 
