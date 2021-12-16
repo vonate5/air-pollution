@@ -37,7 +37,7 @@ The data we are using is the following one:
 - A dataset with 3000 rows and 22 weather features in Budapest, from 2010 to 2017.
 
 <h2 align="center"> Process & tools </h2> 
-![](images/workflow.jpg)
+![](images/workflow.png)
 We use the following method to achieve the objective.
 
 - Outline project and define goals
@@ -61,5 +61,5 @@ After sorting, cleaning and filtering the data we need it, we manage to obtain t
 
 
 
-d
+
 
