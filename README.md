@@ -9,8 +9,8 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 - [Project](https://github.com/vonate5/final_project#-project-)
 - [Data](https://github.com/vonate5/final_project#-data-)
 - [Process & tools](https://github.com/vonate5/final_project#-data-)
-- [Visualization]
-- [Conclussions]
+- [Visualization](https://github.com/vonate5/final_project#-visualization-)
+- [Conclussions](https://github.com/vonate5/final_project#-conclusions-)
 
 <h2 align="center"> Project </h2> 
 
