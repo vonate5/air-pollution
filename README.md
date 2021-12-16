@@ -44,7 +44,7 @@ We use the following method to achieve the objective.
 
 - Outline project and define goals
 - Research data sources
-- Set up project environment (GitHub repository, Trello Kanban board)
+- Set up project environment (GitHub repository, 
 - Gather data via web scraping and APIs
 - EDA, clean and wrangle data using Python and Pandas
 - Analysis and visualization in Tableau
